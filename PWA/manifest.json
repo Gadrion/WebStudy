@@ -1,0 +1,22 @@
+{
+  "short_name": "manifest_test",
+  "name": "GD's Test Manifest",
+  "icons": [
+    {
+      "src": "image/man_48x48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "image/man_64x64.png",
+      "type": "image/png",
+      "sizes": "64x64"
+    },
+    {
+      "src": "image/man_128x128.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    }
+  ],
+  "start_url": "index.html?launcher=true"
+}
