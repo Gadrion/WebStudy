@@ -1,0 +1,10 @@
+{
+  "name": "bundler_test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel ./public/index.html -p 1234",
+    "build": "parcel build ./public/index.html"
+  }
+}
